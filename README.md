@@ -1,2 +1,2 @@
 # LSTM-Movie-Review
-Sentiment Analysis of IMDB Movie Review using LSTM
+Dump code of my Thesis in my college.
